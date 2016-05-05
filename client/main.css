@@ -1,5 +1,16 @@
 /* CSS declarations go here */
+body {
+	padding-top: 60px;
+}
 
 .thumbnail {
     height: 500px;
+}
+
+.thumbnail-img {
+	max-height: 300px;
+}
+
+.thumbnail-desc {
+	word-break: break-word;
 }

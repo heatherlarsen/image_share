@@ -14,3 +14,7 @@ body {
 .thumbnail-desc {
 	word-break: break-word;
 }
+
+.single-img {
+	max-width: 100%;
+}
